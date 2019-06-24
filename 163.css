@@ -1,0 +1,173 @@
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+.nav-content {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    background-color: #F1F1F1;
+}
+
+.ma1000 {
+    width: 1000px;
+    margin: 0px auto;
+}
+
+.hd-hd img {
+    padding: 0px 5px;
+}
+
+.hd-hd .hhd-li0 {
+    margin-top: 8px;
+}
+
+.hd-hd .hhd-li1 {
+    width: 20px;
+    height: 30px;
+}
+
+.hd-hd>ul {
+    float: left;
+}
+
+.hd-hd>ul>li {
+    float: left;
+}
+
+.hd-hd>div {
+    float: right;
+}
+
+.hd-hd .hd-bt a {
+    height: 37px;
+    line-height: 37px;
+    font-size: 14px;
+    color: #724EA8;
+}
+
+.form-hd {
+    width: 1000px;
+    height: 46px;
+    background: url("../content/img/02-163登录/tit_bg2.jpg") repeat-x;
+    border-radius: 5px;
+}
+
+.form-hd .fohd-img0 {
+    width: 43px;
+    height: 46px;
+}
+
+.form-hd .fhim-sp0 {
+    height: 45px;
+    line-height: 45px;
+    color: white;
+    font-size: 16px;
+    padding-left: 20px;
+}
+
+.form-hd div {
+    float: left;
+}
+
+.form-bg {
+    width: 1000px;
+    background-color: white;
+}
+
+.form-bd {
+    width: 410px;
+    margin: 0px auto;
+    padding-top: 40px;
+    padding-bottom: 45px;
+}
+
+.form-bd .float0 div {
+    float: right;
+    margin-bottom: 30px;
+}
+
+.form-bd .float0 {
+    position: relative;
+}
+
+.red {
+    color: red;
+}
+
+.inp0 {
+    width: 315px;
+    height: 30px;
+}
+
+.text0 {
+    height: 30px;
+    line-height: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 15px;
+}
+
+.select0 {
+    height: 30px;
+}
+
+.text1 {
+    height: 30px;
+    width: 206px;
+}
+
+.opab {
+    position: absolute;
+    width: 500px;
+    height: 25px;
+    line-height: 25px;
+    color: #91949E;
+    font-size: 12px;
+    top: 34px;
+    left: 92px;
+}
+
+.a1 {
+    color: #91B3CF;
+    font-size: 14px;
+}
+
+.opab0 {
+    position: absolute;
+    width: 500px;
+    height: 25px;
+    line-height: 25px;
+    color: #91949E;
+    font-size: 12px;
+    top: 54px;
+    left: 92px;
+}
+
+.opab1 {
+    position: absolute;
+    width: 120px;
+    height: 25px;
+    top: 4px;
+    left: 420px;
+}
+
+.dv0 {
+    margin-top: 45px;
+    margin-left: 92px;
+}
+
+.dv1 {
+    width: 570px;
+    margin: 0px auto;
+}
+
+.dv1 ul>li {
+    float: left;
+    margin: 0px 5px;
+    height: 20px;
+    line-height: 20px;
+}
